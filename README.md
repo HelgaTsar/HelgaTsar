@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olha</h1>
-<h3 align="center">Python developer from Ukraine &#x1F1FA;&#x1F1E6;</h3>
+<h3 align="center">Python developer from Ukraine 1F1FA 1F1E6
+</h3>
 
 - 🌱 I’m currently learning __*Python Web with GoIT*__
 
