@@ -7,4 +7,4 @@
 
 - 📫 How to contact me _*olha.tsarevych@gmail.com*_
 
-- ⚡ Fun fact: I have a small farm with aquarium shrimp
+- ⚡ Fun fact: I have a small farm with aquarium shrimp 🦐
