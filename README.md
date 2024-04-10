@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Olha Tsarevych 
-- 🌱 I’m currently learning Python Web with GoIT
-- 📫 How to reach me olha.tsarevych@gmail.com
+<h1 align="center">Hi 👋, I'm Olha</h1>
+<h3 align="center">Python developer from Ukraine &#x1F1FA;&#x1F1E6;</h3>
 
-<!---
-HelgaTsar/HelgaTsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning _*Python Web with GoIT*_
+
+- 👨‍💻 All of my projects are available at _*[https://github.com/HelgaTsar](https://github.com/HelgaTsar)*_
+
+- 📫 How to contact me _*olha.tsarevych@gmail.com*_
+
+- ⚡ Fun fact: *I have a small farm with aquarium shrimp*
