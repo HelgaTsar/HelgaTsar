@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at _*[https://github.com/HelgaTsar](https://github.com/HelgaTsar)*_
 
-- 👁️‍🗨️ Check out my Linkedin _*[www.linkedin.com/in/olha-tsarevych](www.linkedin.com/in/olha-tsarevych)*_
+- 👁️‍🗨️ Check out my Linkedin _*[linkedin](https://www.linkedin.com/in/olha-tsarevych/)*_
 
 - 📫 How to contact me _*olha.tsarevych@gmail.com*_
 
