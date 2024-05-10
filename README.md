@@ -5,8 +5,8 @@
 
 - 👨‍💻 All of my projects are available at   _*[GitHub](https://github.com/HelgaTsar)*_
 
-- 👁️‍🗨️ Check out my Linkedin   _*[Linkedin](https://www.linkedin.com/in/olha-tsarevych/)*_
-
 - 📫 How to contact me   _*olha.tsarevych@gmail.com*_
+
+- 👁️‍🗨️ Check out my Linkedin   _*[Linkedin](https://www.linkedin.com/in/olha-tsarevych/)*_
 
 - ⚡ Fun fact: I have a small farm with aquarium shrimp 🦐
